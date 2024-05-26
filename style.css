@@ -309,8 +309,12 @@ h6 {
     float: right;
 }
 
-button,
-input,
+button {
+    margin-left: 20px;
+    float: left;
+}
+
+ input,
 select,
 textarea {
     line-height: inherit;
